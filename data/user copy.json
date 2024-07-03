@@ -1,0 +1,44 @@
+[
+  {
+      "_id": "b101",
+      "userName": "mishu123",
+      "fullName": "Mishu Mashou",
+      "password": "secret1",
+      "isAdmin": true
+    },
+    {
+      "_id": "b102",
+      "userName": "mishu!!!",
+      "fullName": "Adon Mashou",
+      "password": "secret2",
+      "isAdmin": false
+    },
+    {
+      "_id": "b103",
+      "userName": "mister1",
+      "fullName": "Adon Mister",
+      "password": "secret3",
+      "isAdmin": false
+    },
+    {
+      "_id": "b104",
+      "userName": "aniUser7",
+      "fullName": "User Ehad",
+      "password": "secret4",
+      "isAdmin": false
+    },
+    {
+      "_id": "b105",
+      "userName": "USER1717",
+      "fullName": "Shem Yafe",
+      "password": "secret5",
+      "isAdmin": false
+    },
+    {
+      "_id": "b106",
+      "userName": "nameUser33",
+      "fullName": "Name Name",
+      "password": "secret6",
+      "isAdmin": false
+    }
+]
